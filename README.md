@@ -28,5 +28,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [R. Hahn ](https://github.com/13ace37).<br />
-This project is [GPL--3.0](https://github.com/13ace37/lichtanlage/blob/master/LICENSE) licensed.
+Copyright © 2020 [R. Hahn](https://github.com/13ace37).<br />
+This project is [GPL-3.0](https://github.com/13ace37/lichtanlage/blob/master/LICENSE) licensed.
