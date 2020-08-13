@@ -1,9 +1,14 @@
 using namespace std;
 
-class blinker {
+class Blinker {
 
 	bool state;
-	bool location[2];
+	public:  bool location[2];
+
+	int setPos(int pos1, int pos2) {
+		int location[2] = {pos1,pos2};
+		return 1;
+	}
 
 	bool getState(){
 		return state;
@@ -18,6 +23,13 @@ class blinker {
 	}
 };
 
-void setup() {}
+void setup() {
 
-void loop() {}
+	Blinker b1;
+	b1.setPos(1,1);
+
+}
+
+void loop() {
+  
+}
